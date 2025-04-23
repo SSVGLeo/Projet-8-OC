@@ -1,0 +1,7 @@
+Liste changement effectué :
+Redimensionner les images affichées sur le site + changement de format vers .webp
+Ajout d'"alt" à chaque image de la page
+Changement de la couleur du texte de filtrage du blanc au noir pour une meilleur accessibilité
+Ajout d'un "link label" sur le lien redirigeant vers Instagram
+Ajout d'un "for:" à chaque <label>
+Correction des balises <h*> pour qu'elles soient bien arrangés et dans l'ordre
