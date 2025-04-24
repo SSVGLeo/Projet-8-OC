@@ -31,6 +31,7 @@ body {
 
 .nav li {
   padding-inline: 10px;
+  cursor: pointer;
 }
 
 .nav a {
@@ -101,6 +102,7 @@ body {
   color: black;
   background-color: #beb45a;
   border-radius: 0;
+  cursor: pointer;
 }
 .nav-pills .nav-link {
   color: #000;
